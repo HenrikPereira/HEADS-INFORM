@@ -1,0 +1,716 @@
+TY  - CONF
+TI  - Requirements and Challenges in Integration of Aggregated Personal Health Data for Inclusion into Formal Electronic Health Records (EHR)
+T2  - 2019 2nd International Colloquium on Smart Grid Metrology (SMAGRIMET)
+SP  - 1
+EP  - 5
+AU  - A. Koren
+AU  - M. Jurčević
+AU  - D. Huljenić
+PY  - 2019
+KW  - Medical services
+KW  - Standards
+KW  - Interoperability
+KW  - Data models
+KW  - Data privacy
+KW  - Electronic medical records
+KW  - Wireless sensor networks
+KW  - IoT
+KW  - Internet of Things
+KW  - Wireless Sensor Network
+KW  - WSN
+KW  - Health care
+KW  - Central Health Information System
+KW  - Electronic Health Record
+KW  - EHR
+KW  - eHealth
+DO  - 10.23919/SMAGRIMET.2019.8720389
+JO  - 2019 2nd International Colloquium on Smart Grid Metrology (SMAGRIMET)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2019 2nd International Colloquium on Smart Grid Metrology (SMAGRIMET)
+Y1  - 9-12 April 2019
+AB  - The rapid growth of Wireless Sensor Networks and embedded devices as well as their implementation in the context of Smart Homes opens many possibilities for development of new quality solutions in, among others, eHealth field. In this sense, the idea was to implement the inclusion of personalized health data, collected via wireless sensors, such as e.g. personal trackers, into the formal Electronic Health Record (EHR) which forms a part of the Croatia's Central Health Information System. This consists of defining simple and extensible schemas for the most common and important types of data in healthcare and modeling a comprehensible, transparent and automatized ETL process (extract, transform, load) that would guarantee data integrity. Considering the sensitivity of data in question, privacy is considered a crucial challenge in defining the model to ensure patient's privacy is uncompromised.
+ER  - 
+
+TY  - CONF
+TI  - Annotating Cohort Data Elements with OHDSI Common Data Model to Promote Research Reproducibility
+T2  - 2018 IEEE International Conference on Bioinformatics and Biomedicine (BIBM)
+SP  - 1310
+EP  - 1317
+AU  - Y. Zhao
+AU  - Y. Wang
+AU  - H. Wang
+AU  - B. Yan
+AU  - F. Shen
+AU  - K. J. Peterson
+AU  - W. A. Rocca
+AU  - J. S. Sauver
+AU  - H. Liu
+PY  - 2018
+KW  - Data models
+KW  - Diseases
+KW  - Manganese
+KW  - Vocabulary
+KW  - Standardization
+KW  - Data mining
+KW  - Common Data Model
+KW  - electronic health record
+KW  - cohort study
+KW  - data standardization
+DO  - 10.1109/BIBM.2018.8621269
+JO  - 2018 IEEE International Conference on Bioinformatics and Biomedicine (BIBM)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2018 IEEE International Conference on Bioinformatics and Biomedicine (BIBM)
+Y1  - 3-6 Dec. 2018
+AB  - Rapid increase in the implementation of electronic health records (EHRs) has led to an unprecedented expansion in the availability of dense longitudinal cohort datasets for clinical studies. However, there is a growing need to ensure data traceability, validity, and reproducibility for EHR-based clinical research. Applying common data models that standardize EHR data elements could reduce research discrepancies and improve research reproducibility. As a pilot study, we utilized the Observational Medical Outcomes Partnership (OMOP) Common Data Model (CDM) developed by the Observational Health Data Sciences and Informatics (OHDSI) community to annotate cohort data elements from the local Rochester Epidemiology Project (REP). We evaluated the data coverage of the OMOP CDM by manually annotating the cohorts from 92 REP publications. Next, we examined cohort similarities between different publications using OMOP elements. Evaluation results showed that the OMOP CDM covers 99.8% of the content that is associated with cohort attributes. It demonstrated that the OMOP CDM can be used for data element standardization when extracting information from EHR and clinical registries. The OMOP CDM also shows its potential to be used as a tool for retrospective examination of cohort definition consistencies and epidemiology model similarities.
+ER  - 
+
+TY  - CONF
+TI  - Using i2b2 to bootstrap rural health analytics and learning networks
+T2  - 2016 38th Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC)
+SP  - 2533
+EP  - 2536
+AU  - D. R. Harris
+AU  - A. D. Baus
+AU  - T. J. Harper
+AU  - T. D. Jarrett
+AU  - C. R. Pollard
+AU  - J. C. Talbert
+PY  - 2016
+KW  - Data models
+KW  - Standards
+KW  - Medical services
+KW  - Collaborative work
+KW  - Sociology
+KW  - Statistics
+KW  - Vocabulary
+DO  - 10.1109/EMBC.2016.7591246
+JO  - 2016 38th Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC)
+IS  - 
+SN  - 1558-4615
+VO  - 
+VL  - 
+JA  - 2016 38th Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC)
+Y1  - 16-20 Aug. 2016
+AB  - We demonstrate that the open-source i2b2 (Informatics for Integrating Biology and the Bedside) data model can be used to bootstrap rural health analytics and learning networks. These networks promote communication and research initiatives by providing the infrastructure necessary for sharing data and insights across a group of healthcare and research partners. Data integration remains a crucial challenge in connecting rural healthcare sites with a common data sharing and learning network due to the lack of interoperability and standards within electronic health records. The i2b2 data model acts as a point of convergence for disparate data from multiple healthcare sites. A consistent and natural data model for healthcare data is essential for overcoming integration issues, but challenges such as those caused by weak data standardization must still be addressed. We describe our experience in the context of building the West Virginia/Kentucky Health Analytics and Learning Network, a collaborative, multi-state effort connecting rural healthcare sites.
+ER  - 
+
+TY  - CONF
+TI  - Accelerating Multi-site Health Informatics with Streamlined Data Infrastructure using OMOP-on-FHIR
+T2  - 2022 44th Annual International Conference of the IEEE Engineering in Medicine & Biology Society (EMBC)
+SP  - 4687
+EP  - 4690
+AU  - B. L. Marteau
+AU  - Y. Zhu
+AU  - F. Giuste
+AU  - W. Shi
+AU  - A. Carpenter
+AU  - C. Hilton
+AU  - M. D. Wang
+PY  - 2022
+KW  - Musculoskeletal system
+KW  - Pediatrics
+KW  - Protocols
+KW  - Hospitals
+KW  - Databases
+KW  - Data models
+KW  - Bioinformatics
+DO  - 10.1109/EMBC48229.2022.9871865
+JO  - 2022 44th Annual International Conference of the IEEE Engineering in Medicine & Biology Society (EMBC)
+IS  - 
+SN  - 2694-0604
+VO  - 
+VL  - 
+JA  - 2022 44th Annual International Conference of the IEEE Engineering in Medicine & Biology Society (EMBC)
+Y1  - 11-15 July 2022
+AB  - Shriners Children's (SHC) is a hospital system whose mission is to advance the treatment and research of pediatric diseases. SHC success has generated a wealth of clinical data. Unfortunately, barriers to healthcare data access often limit data-driven clinical research. We decreased this burden by allowing access to clinical data via the standardized data access standard called FHIR (Fast Healthcare Interoperability Resources). Specifically, we converted existing data in the Observational Medical Outcomes Partnership (OMOP) Common Data Model (CDM) standard into FHIR data elements using a technology called OMOP-on-FHIR. In addition, we developed two applications leveraging the FHIR data elements to facilitate patient cohort curation to advance research into pediatric musculoskeletal diseases. Our work enables clinicians and clinical researchers to use hundreds of currently available open-sourced FHIR applications. Our successful implementation of OMOP-on-FHIR within a large hospital system will accelerate advancements in pediatric disease treatment and research.
+ER  - 
+
+TY  - CONF
+TI  - Portable Phenotyping System: A Portable Machine-Learning Approach to i2b2 Obesity Challenge
+T2  - 2018 IEEE International Conference on Healthcare Informatics Workshop (ICHI-W)
+SP  - 86
+EP  - 87
+AU  - H. Sharma
+AU  - C. Mao
+AU  - Y. Zhang
+AU  - H. Vatani
+AU  - L. Yao
+AU  - Y. Zhong
+AU  - L. Rasmussen
+AU  - G. Jiang
+AU  - J. Pathak
+AU  - Y. Luo
+PY  - 2018
+KW  - Machine learning
+KW  - Obesity
+KW  - Informatics
+KW  - Feature extraction
+KW  - Data models
+KW  - Data mining
+KW  - Support vector machines
+KW  - NLP
+KW  - Portability
+KW  - Machine Learning
+KW  - Obesity
+KW  - i2b2
+KW  - OMOP CDM
+DO  - 10.1109/ICHI-W.2018.00032
+JO  - 2018 IEEE International Conference on Healthcare Informatics Workshop (ICHI-W)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2018 IEEE International Conference on Healthcare Informatics Workshop (ICHI-W)
+Y1  - 4-7 June 2018
+AB  - This paper presents a portable phenotyping system that is capable of integrating both rule-based and statistical machine learning based approaches. Our system utilizes UMLS to extract clinically relevant features from the unstructured text and then facilitates portability across different institutions and data systems by incorporating ODHSI's OMOP Common Data Model (CDM) to standardize necessary data elements. Our system can also store the key components of rule-based systems (e.g., regular expression matches) in the format of OMOP CDM, thus enabling the reuse, adaptation and extension of many existing rule-based clinical NLP systems. We experimented our system on the corpus from i2b2's Obesity Challenge as a pilot study. Our system facilitates portable phenotyping of obesity and its 15 comorbidities based on the unstructured patient discharge summaries, while achieving a performance that often ranked among the top 10 of the challenge participants. This standardization enables a consistent application of numerous rule-based and machine learning based classification techniques downstream.
+ER  - 
+
+TY  - CONF
+TI  - Bag-of-Attributes Representation: A Vector Space Model for Electronic Health Records Analysis in OMOP
+T2  - 2020 IEEE 33rd International Symposium on Computer-Based Medical Systems (CBMS)
+SP  - 197
+EP  - 202
+AU  - J. M. Clementino
+AU  - C. C. Bones
+AU  - B. S. Faiçal
+AU  - O. C. Linares
+AU  - D. M. Lima
+AU  - M. A. Gutierrez
+AU  - C. Traina
+AU  - A. J. M. Traina
+PY  - 2020
+KW  - Databases
+KW  - Data models
+KW  - Medical diagnostic imaging
+KW  - Data mining
+KW  - Analytical models
+KW  - Clustering algorithms
+KW  - Medical services
+KW  - Clinical Pathway, OMOP, Vector Space Model, VSM, Electronic Health Records
+DO  - 10.1109/CBMS49503.2020.00045
+JO  - 2020 IEEE 33rd International Symposium on Computer-Based Medical Systems (CBMS)
+IS  - 
+SN  - 2372-9198
+VO  - 
+VL  - 
+JA  - 2020 IEEE 33rd International Symposium on Computer-Based Medical Systems (CBMS)
+Y1  - 28-30 July 2020
+AB  - Several studies have been performed worldwide to improve health services using data generated by digital medical systems. The increasing volume of data generated by these systems is making the use of knowledge discovery and data analysis techniques essential to improve the quality of the health services, which are offered by the medical facilities. However, it is possible to observe a gap, in the literature, about generic and flexible vector space models (VSM) that are well adapted to handle electronic health records (EHR), requiring that each knowledge discovery effort develop their own VSM or other representation model. This restriction can turn a knowledge discovery task over clinical pathways nonviable for comparative evaluations among different methods. Targeting such scenario, we propose the Bag-of-Attributes Representation (BOAR). BOAR represents an EHR as an n-dimensional vector space. Since BOAR takes advantage of the OMOP (Observational Medical Outcomes Partnership) standard, BOAR is able to represent records retrieved from different data models. The experimental results show that BOAR is flexible and robust to representing EHR from several sources, and allows the execution and evaluation of several clustering algorithms.
+ER  - 
+
+TY  - CONF
+TI  - On Mapping Textual Queries to a Common Data Model
+T2  - 2017 IEEE International Conference on Healthcare Informatics (ICHI)
+SP  - 21
+EP  - 25
+AU  - S. Liu
+AU  - Y. Wang
+AU  - N. Hong
+AU  - F. Shen
+AU  - S. Wu
+AU  - W. Hersh
+AU  - H. Liu
+PY  - 2017
+KW  - Data models
+KW  - Drugs
+KW  - Medical diagnostic imaging
+KW  - Informatics
+KW  - Data mining
+KW  - Standards
+DO  - 10.1109/ICHI.2017.63
+JO  - 2017 IEEE International Conference on Healthcare Informatics (ICHI)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2017 IEEE International Conference on Healthcare Informatics (ICHI)
+Y1  - 23-26 Aug. 2017
+AB  - The widespread adoption of Electronic Health Records (EHRs) has enabled data-driven approaches to clinical care and research. However, the performance and generalizability of those approaches are severely hampered by the lack of syntactic and semantic interoperability of EHR data across institutions. Towards resolving this problem, Common Data Models (CDMs) can be used to standardize the clinical data in clinical data repositories. In this paper, we described our mapping of entity mention types from patient-level information retrieval queries to an empirical subset of Observational Medical Outcomes Partnership (OMOP) CDM data fields. We investigated the empirical data model by annotating multi-institutional clinical data requests in free text and comparing the distributions of data model fields. The similar distribution of the entity mention types from two different sites indicates that the data model is generalizable for multi-institutional cohort identification queries.
+ER  - 
+
+TY  - CONF
+TI  - An Architecture to Define Cohorts over Medical Imaging Datasets
+T2  - 2021 IEEE 34th International Symposium on Computer-Based Medical Systems (CBMS)
+SP  - 545
+EP  - 549
+AU  - J. R. Almeida
+AU  - E. Monteiro
+AU  - J. L. Oliveira
+PY  - 2021
+KW  - Medical conditions
+KW  - Filtering
+KW  - Computer architecture
+KW  - Production
+KW  - Metadata
+KW  - DICOM
+KW  - Proposals
+KW  - DICOM
+KW  - OMOP CDM
+KW  - Radiology CDM
+KW  - Medical Image
+KW  - Common Data Model
+DO  - 10.1109/CBMS52027.2021.00088
+JO  - 2021 IEEE 34th International Symposium on Computer-Based Medical Systems (CBMS)
+IS  - 
+SN  - 2372-9198
+VO  - 
+VL  - 
+JA  - 2021 IEEE 34th International Symposium on Computer-Based Medical Systems (CBMS)
+Y1  - 7-9 June 2021
+AB  - The DICOM standard has been widely adopted for the exchange and management of biomedical images. Its hierarchical structure allows representing data and metadata of medical imaging studies. However, other patient data not directly related with the study, such as prescriptions and treatments, are stored in independent Electronic Health Record (EHR) systems. With the increasing production of medical imaging studies, repositories responsible for storing DICOM images started to contain massive amounts of data. Therefore, retrieving a subset of images based on similar criteria as the ones used in EHR systems, is a complex task for a medical researcher. In this paper, we propose an architecture to define cohorts over medical imaging data sets. This proposal uses a DICOM archive to index and to retrieve images, while the studies' selection is performed through a web application, ATLAS, which is normally used on observational studies upon EHR data. The presented architecture was validated using a public data set with synthetic EHR data.
+ER  - 
+
+TY  - CONF
+TI  - Assessing the feasibility of observational data sources for multicenter clinical studies
+T2  - 2024 IEEE 37th International Symposium on Computer-Based Medical Systems (CBMS)
+SP  - 406
+EP  - 411
+AU  - J. R. Almeida
+AU  - P. Rijnbeek
+AU  - M. Moinat
+AU  - J. L. Oliveira
+PY  - 2024
+KW  - Filters
+KW  - Databases
+KW  - Navigation
+KW  - Soft sensors
+KW  - Europe
+KW  - Metadata
+KW  - Browsers
+KW  - Feasibility
+KW  - observational studies
+KW  - data integration
+KW  - data sharing
+KW  - OMOP CDM
+KW  - EHDEN
+DO  - 10.1109/CBMS61543.2024.00073
+JO  - 2024 IEEE 37th International Symposium on Computer-Based Medical Systems (CBMS)
+IS  - 
+SN  - 2372-9198
+VO  - 
+VL  - 
+JA  - 2024 IEEE 37th International Symposium on Computer-Based Medical Systems (CBMS)
+Y1  - 26-28 June 2024
+AB  - The availability of large Electronic Health Records (EHR) databases has created new opportunities for clinical research. To improve interoperability of these databases a Common Data Model (CDM) can be used which enables standardized analytics. However, identifying the appropriate data sources for a specific study remains a challenge. The current strategy used for database discovery are based on catalogues that contain metadata which is often not rich enough for the task at hand. Additionally, sometimes this information is incorrect since it is inserted in such platforms manually by the data owners. In response to this challenge, we proposed the Concept Browser tool. The tool aims to streamline the process of efficiently exploring and selecting suitable OMOP CDM databases aligned with the study purpose. It was developed and validated in the EHDEN project, which currently contains information from more than 180 health databases across Europe and is now being used also in the DARWIN EU® initiative of the European Medicines Agency.
+ER  - 
+
+TY  - JOUR
+TI  - Semantic Normalization and Query Abstraction Based on SNOMED-CT and HL7: Supporting Multicentric Clinical Trials
+T2  - IEEE Journal of Biomedical and Health Informatics
+SP  - 1061
+EP  - 1067
+AU  - S. Paraiso-Medina
+AU  - D. Perez-Rey
+AU  - A. Bucur
+AU  - B. Claerhout
+AU  - R. Alonso-Calvo
+PY  - 2015
+KW  - Semantics
+KW  - Vocabulary
+KW  - Data models
+KW  - Clinical trials
+KW  - Standards
+KW  - Interoperability
+KW  - Medical diagnostic imaging
+KW  - Clinical trials
+KW  - data integration
+KW  - HL7 and SNOMED
+KW  - omics
+KW  - semantic interoperability
+DO  - 10.1109/JBHI.2014.2357025
+JO  - IEEE Journal of Biomedical and Health Informatics
+IS  - 3
+SN  - 2168-2208
+VO  - 19
+VL  - 19
+JA  - IEEE Journal of Biomedical and Health Informatics
+Y1  - May 2015
+AB  - Advances in the use of omic data and other biomarkers are increasing the number of variables in clinical research. Additional data have stratified the population of patients and require that current studies be performed among multiple institutions. Semantic interoperability and standardized data representation are a crucial task in the management of modern clinical trials. In the past few years, different efforts have focused on integrating biomedical information. Due to the complexity of this domain and the specific requirements of clinical research, the majority of data integration tasks are still performed manually. This paper presents a semantic normalization process and a query abstraction mechanism to facilitate data integration and retrieval. A process based on well-established standards from the biomedical domain and the latest semantic web technologies has been developed. Methods proposed in this paper have been tested within the EURECA EU research project, where clinical scenarios require the extraction of semantic knowledge from biomedical vocabularies. The aim of this paper is to provide a novel method to abstract from the data model and query syntax. The proposed approach has been compared with other initiatives in the field by storing the same dataset with each of those solutions. Results show an extended functionality and query capabilities at the cost of slightly worse performance in query execution. Implementations in real settings have shown that following this approach, usable interfaces can be developed to exploit clinical trial data outcomes.
+ER  - 
+
+TY  - CONF
+TI  - Kamino: A Scalable Architecture to Support Medical AI Research Using Large Real World Data
+T2  - 2024 IEEE 12th International Conference on Healthcare Informatics (ICHI)
+SP  - 500
+EP  - 504
+AU  - F. Lin
+AU  - P. Young
+AU  - H. He
+AU  - J. Huang
+AU  - R. Gagne
+AU  - D. Rice
+AU  - N. Price
+AU  - W. Byron
+AU  - Y. Hu
+AU  - D. Felker
+AU  - W. Button
+AU  - D. Meeker
+AU  - A. Hsiao
+AU  - H. Xu
+AU  - C. Torre
+AU  - W. Schulz
+PY  - 2024
+KW  - Soft sensors
+KW  - Medical services
+KW  - Data models
+KW  - Natural language processing
+KW  - Resource management
+KW  - Security
+KW  - Artificial intelligence
+KW  - Health Informatics
+KW  - Observational Medical Outcomes Partnership
+KW  - Common Data Model
+KW  - Data Governance
+KW  - System Design
+DO  - 10.1109/ICHI61247.2024.00072
+JO  - 2024 IEEE 12th International Conference on Healthcare Informatics (ICHI)
+IS  - 
+SN  - 2575-2634
+VO  - 
+VL  - 
+JA  - 2024 IEEE 12th International Conference on Healthcare Informatics (ICHI)
+Y1  - 3-6 June 2024
+AB  - Electronic Health Records (EHRs) represent a crucial data source for real-world evidence generation. To facilitate biomedical studies using EHRs, standard data models like the OMOP CDM have been developed. Nevertheless, recent advancements in biomedical AI research that leverage EHRs have introduced new challenges, encompassing security considerations, large-scale data retrieval, and computational resource management, including GPUs. This paper introduces Kamino, an innovative architectural solution tailored to support biomedical AI research using EHR data. Kamino offers a user-friendly interface with features designed for efficient team access management in accordance with regulatory requirements. It facilitates direct data retrieval from an OMOP CDM instance and includes a resource allocation system based on Kubernetes orchestration. Here, we demonstrate the practical application and utility of Kamino through a clinical natural language processing task. We firmly believe that such a tool will significantly expedite AI research conducted with EHR data within academic institutions.
+ER  - 
+
+TY  - CONF
+TI  - Preliminary exploratory data analysis of simulated national clinical data research network for future use in annotation of a rare tumor biobanking initiative
+T2  - 2017 IEEE International Conference on Bioinformatics and Biomedicine (BIBM)
+SP  - 2098
+EP  - 2104
+AU  - A. S. Felmeister
+AU  - A. J. Waanders
+AU  - S. E. S. Leary
+AU  - J. Stevens
+AU  - J. L. Mason
+AU  - R. Teneralli
+AU  - X. Hu
+AU  - L. C. Bailey
+PY  - 2017
+KW  - Data models
+KW  - Drugs
+KW  - Tumors
+KW  - Cancer
+KW  - Hospitals
+KW  - Pediatrics
+KW  - Electronic medical records
+KW  - Data Mining
+KW  - Health Informatics
+KW  - Translational Research
+KW  - Health Data Acquisition
+DO  - 10.1109/BIBM.2017.8217983
+JO  - 2017 IEEE International Conference on Bioinformatics and Biomedicine (BIBM)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2017 IEEE International Conference on Bioinformatics and Biomedicine (BIBM)
+Y1  - 13-16 Nov. 2017
+AB  - Observational data resources based on the capture of clinical data in the electronic health record (EHR) have produced significant learning opportunities in many areas of medicine. These large data resources can span multiple hospital systems and employ common semantics, ontologies, and data models. They have uncovered critical safety issues for patients, and spurred observational research and clinical decision support. In the age of precision medicine there is also an increased need to obtain genomic and clinical data to discover novel treatments for the deadliest of diseases. With this, there are efforts to create deep-dive disease specific repositories that include tissue in biobanks. The latter require significant human annotation of biospecimens. Securing the data is especially critical in rare pediatric brain tumors. In the specific case of The Children's Brain Tumor Tissue Consortium (CBTTC) an international rare pediatric brain tumor repository, the number of patients that need to be followed prospectively is outpacing the ability of human annotation. In this preliminary study, we perform a prescribed data exploration analysis on simulation data in the Observational Medical Outcomes Partnership (OMOP) Common Data Model (CDM) employed by the pediatric data network PEDSNet with the intention to ascertain feasibility in automatic annotation of patient records in the CBTTC.
+ER  - 
+
+TY  - CONF
+TI  - Development of Data Ingestion Pipelines for the Federated Use of Biomedical Data in Research: The Health Big Data Project
+T2  - 2024 IEEE 22nd Mediterranean Electrotechnical Conference (MELECON)
+SP  - 678
+EP  - 683
+AU  - P. Reali
+AU  - A. Carotenuto
+AU  - D. Piantella
+AU  - L. Tanca
+AU  - P. Plebani
+AU  - M. G. Signorini
+PY  - 2024
+KW  - Hospitals
+KW  - Magnetic resonance imaging
+KW  - Soft sensors
+KW  - Pipelines
+KW  - Electrocardiography
+KW  - Big Data
+KW  - Regulation
+KW  - data standards
+KW  - OMOP
+KW  - FHIR
+KW  - signal processing
+KW  - MRI
+KW  - ECG
+KW  - harmonization
+KW  - data sharing
+DO  - 10.1109/MELECON56669.2024.10608617
+JO  - 2024 IEEE 22nd Mediterranean Electrotechnical Conference (MELECON)
+IS  - 
+SN  - 2158-8481
+VO  - 
+VL  - 
+JA  - 2024 IEEE 22nd Mediterranean Electrotechnical Conference (MELECON)
+Y1  - 25-27 June 2024
+AB  - The secondary use of health data represents a great opportunity to advance pathophysiological knowledge and improve patients’ care. However, the absence of standard data formats and information structuring schemas severely hinders this potential, preventing the efficient sharing of data collected in different hospitals and affecting the quality of multicentric studies. The 10-year Health Big Data (HBD) project aims to address these issues to foster the collaboration of 51 Italian research hospitals (IRCCSs). To address the seven main challenges identified for health data sharing, seven Working Groups (WGs) were created, with the WG2 being responsible for the definition of standardization and harmonization pipelines for signals, bioimages, and omics data. The present paper focuses on two ongoing works of the WG2, namely the implementation of a pipeline to extract and map information from electrocardiographic (ECG) signals into the Observational Medical Outcomes Partnership (OMOP) Common Data Model (CDM) and the development of a harmonization pipeline to reduce the center effect in multicentric Magnetic Resonance Imaging (MRI) studies. We show interesting results and insights concerning the implementation of both pipelines. Besides, we highlight the main difficulties we encountered on our path toward health data sharing and suggest possible solutions.
+ER  - 
+
+TY  - CONF
+TI  - HealthDBFinder: a question-answering task for health database discovery
+T2  - 2024 IEEE 37th International Symposium on Computer-Based Medical Systems (CBMS)
+SP  - 100
+EP  - 105
+AU  - J. R. Almeida
+AU  - J. M. Silva
+AU  - L. C. Afonso
+AU  - T. M. Almeida
+AU  - R. Antunes
+AU  - R. A. Jonker
+AU  - J. A. Reis
+AU  - D. Silva
+AU  - S. Matos
+AU  - J. L. Oliveira
+PY  - 2024
+KW  - Databases
+KW  - Source coding
+KW  - Europe
+KW  - Medical services
+KW  - Pressing
+KW  - Metadata
+KW  - Information retrieval
+KW  - EHDEN Catalogue
+KW  - database discovery
+KW  - data sharing
+KW  - OMOP CDM
+DO  - 10.1109/CBMS61543.2024.00025
+JO  - 2024 IEEE 37th International Symposium on Computer-Based Medical Systems (CBMS)
+IS  - 
+SN  - 2372-9198
+VO  - 
+VL  - 
+JA  - 2024 IEEE 37th International Symposium on Computer-Based Medical Systems (CBMS)
+Y1  - 26-28 June 2024
+AB  - Integrating advanced data processing technologies into healthcare has shifted the medical studies paradigm. These evolve from data collection into management and analysis of Electronic Health Records (EHR) data. This change improved patient care and expanded the scope of clinical research through the secondary usage of existing data. Even though this problem was already solved in other initiatives, it raised new challenges, namely regarding cohort definition, data discovery, and evaluating the study feasibility. There are database catalogues to help in those tasks, but these fail in some cases due to insufficient information. Therefore, in this paper, we address this challenge by proposing a baseline method for information retrieval, including a synthetic dataset for further research. The information present in the dataset was generated from metadata extracted from real-world databases, which represents real problems that do not yet have a solution. The source code of this work is available at http://github.com/bioinformatics-ua/HealthDBFinder.
+ER  - 
+
+TY  - CONF
+TI  - Leveraging Differential Privacy in Geospatial Analyses of Standardized Healthcare Data
+T2  - 2020 IEEE International Conference on Big Data (Big Data)
+SP  - 3119
+EP  - 3122
+AU  - D. R. Harris
+PY  - 2020
+KW  - Differential privacy
+KW  - Medical services
+KW  - Standardization
+KW  - Data models
+KW  - Reproducibility of results
+KW  - Geospatial analysis
+KW  - Open source software
+KW  - geographic information systems
+KW  - data privacy
+KW  - big data applications
+DO  - 10.1109/BigData50022.2020.9378390
+JO  - 2020 IEEE International Conference on Big Data (Big Data)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2020 IEEE International Conference on Big Data (Big Data)
+Y1  - 10-13 Dec. 2020
+AB  - We present a collection of geodatabase functions which expedite utilizing differential privacy for privacy-aware geospatial analysis of healthcare data. The healthcare domain has a long history of standardization and research communities have developed open-source common data models to support the larger goals of interoperability, reproducibility, and data sharing; these models also standardize geospatial patient data. However, patient privacy laws and institutional regulations complicate geospatial analyses and dissemination of research findings due to protective restrictions in how data and results are shared. This results in infrastructures with great abilities to organize and store healthcare data, yet which lack the innate ability to produce shareable results that preserve privacy and conform to regulatory requirements. Differential privacy is a model for performing privacy-preserving analytics. We detail our process and findings in inserting an open-source library for differential privacy into a workflow for leveraging a geodatabase for geocoding and analyzing geospatial data stored as part of the Observational Medical Outcomes Partnership (OMOP) common data model. We pilot this process using an open big data repository of addresses.
+ER  - 
+
+TY  - CONF
+TI  - Using Flowise to Streamline Biomedical Data Discovery and Analysis
+T2  - 2024 IEEE 22nd Mediterranean Electrotechnical Conference (MELECON)
+SP  - 695
+EP  - 700
+AU  - J. A. Reis
+AU  - J. Rafael Almeida
+AU  - T. M. Almeida
+AU  - J. Luís Oliveira
+PY  - 2024
+KW  - Ethics
+KW  - Databases
+KW  - Navigation
+KW  - Soft sensors
+KW  - Natural languages
+KW  - Medical services
+KW  - Data processing
+KW  - EHDEN Portal
+KW  - biomedical data
+KW  - data discovery
+KW  - data sharing
+KW  - OMOP CDM
+DO  - 10.1109/MELECON56669.2024.10608738
+JO  - 2024 IEEE 22nd Mediterranean Electrotechnical Conference (MELECON)
+IS  - 
+SN  - 2158-8481
+VO  - 
+VL  - 
+JA  - 2024 IEEE 22nd Mediterranean Electrotechnical Conference (MELECON)
+Y1  - 25-27 June 2024
+AB  - The new technologies regarding data processing enhance the quality of patient care and raise new opportunities in research through the secondary use of Electronic Health Records (EHR) databases. This evolution shifts the focus from the traditional model of generating new data to a nuanced approach centered on data management and analytical prowess. The implications of repurposing health data are profound, promising to elevate healthcare delivery and catalyze breakthroughs in clinical research. Despite these opportunities, the path to effectively discovering and leveraging this wealth of data is challenging. These can be defined into two main challenges: i) data partners grappling with ethical and social dilemmas in making data discoverable; ii) clinical researchers struggling to select the most suitable data sources for their research studies. In this work, we addressed those challenges by introducing a groundbreaking platform equipped with a chatbot-like mechanism to support medical researchers. The tool was designed to empower researchers to efficiently sift through and select the databases that best align with their investigative pursuits.
+ER  - 
+
+TY  - CONF
+TI  - Combining heterogeneous patient-level data into tranSMART to support multicentre studies
+T2  - 2022 IEEE 35th International Symposium on Computer-Based Medical Systems (CBMS)
+SP  - 62
+EP  - 65
+AU  - J. R. Almeida
+AU  - L. B. Silva
+AU  - A. Pazos
+AU  - J. L. Oliveira
+PY  - 2022
+KW  - Terminology
+KW  - Software packages
+KW  - Soft sensors
+KW  - Pipelines
+KW  - Licenses
+KW  - Data structures
+KW  - Proposals
+KW  - Clinical Studies
+KW  - Observational Studies
+KW  - Data Harmonisation
+KW  - ETL
+KW  - OMOP CDM
+KW  - tranSMART
+DO  - 10.1109/CBMS55023.2022.00018
+JO  - 2022 IEEE 35th International Symposium on Computer-Based Medical Systems (CBMS)
+IS  - 
+SN  - 2372-9198
+VO  - 
+VL  - 
+JA  - 2022 IEEE 35th International Symposium on Computer-Based Medical Systems (CBMS)
+Y1  - 21-23 July 2022
+AB  - Many medical studies have been conducted aiming for better understanding of the causes of diseases and to assist in treatments and protective factors. In some cases, these studies do not produce impactful findings due to the small number of participants. Some initiatives already invested efforts in conducting multicentre studies, which raises other technical challenges due to the heterogeneity of datasets. The analysis of such data sources implies dealing with different data structures, terminologies, concepts, languages, and most importantly, the knowledge behind the data. In this paper, we present a methodology to centralise different datasets into the tranSMART application, using a harmonising strategy based on standard data schema. This methodology can help researchers to generate evidence from a wider variety of data sources. This proposal was validated using Alzheimer's Disease cohorts from several countries, combining at the end 6,669 subjects and 172 clinical concepts. The harmonised datasets can provide multi-cohort queries and analysis. The software package is available, under the MIT license, at https://github.com/bioinformatics-ua/tranSMART-migrator.
+ER  - 
+
+TY  - CONF
+TI  - Deploying Predictive Models In A Healthcare Environment - An Open Source Approach
+T2  - 2018 40th Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC)
+SP  - 6112
+EP  - 6116
+AU  - D. H. Murphree
+AU  - D. J. Quest
+AU  - R. M. Allen
+AU  - C. Ngufor
+AU  - C. B. Storlie
+PY  - 2018
+KW  - Predictive models
+KW  - Containers
+KW  - Production
+KW  - Publishing
+KW  - Data models
+KW  - Web services
+KW  - Medical services
+DO  - 10.1109/EMBC.2018.8513689
+JO  - 2018 40th Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC)
+IS  - 
+SN  - 1558-4615
+VO  - 
+VL  - 
+JA  - 2018 40th Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC)
+Y1  - 18-21 July 2018
+AB  - Despite dramatic progress in the application of predictive modeling and data mining techniques to problems in modern medicine, a major challenge facing technical practitioners is that of delivering models to clinicians. We have developed an easily implementable framework for publishing predictive models written in R or Python in a way that allows them to be consumed by practically any downstream clinical application, as well as allowing them to be reused in a wide variety of environments without modification. The approach makes models available as web services embedded in containers and uses only open source technology. We provide a template, practical explanation and discussion of involved technologies for a model production framework. We currently use this framework to deliver a model for predicting readmission to hospital following discharge to skilled nursing facilities. The flexibility and simplicity of this methodology will allow it to be readily adopted at a wide variety of institutions. We also provide source code for an example model.
+ER  - 
+
+TY  - CONF
+TI  - A FAIR Approach to Real-World Health Data Management and Analysis
+T2  - 2023 IEEE 36th International Symposium on Computer-Based Medical Systems (CBMS)
+SP  - 892
+EP  - 897
+AU  - J. R. Almeida
+AU  - J. M. Silva
+AU  - J. L. Oliveira
+PY  - 2023
+KW  - Databases
+KW  - Shape
+KW  - Soft sensors
+KW  - Europe
+KW  - Collaboration
+KW  - Information sharing
+KW  - Medical services
+KW  - EHDEN Portal
+KW  - biomedical data
+KW  - FAIR principles
+KW  - data integration
+KW  - data sharing
+KW  - OMOP CDM
+DO  - 10.1109/CBMS58004.2023.00338
+JO  - 2023 IEEE 36th International Symposium on Computer-Based Medical Systems (CBMS)
+IS  - 
+SN  - 2372-9198
+VO  - 
+VL  - 
+JA  - 2023 IEEE 36th International Symposium on Computer-Based Medical Systems (CBMS)
+Y1  - 22-24 June 2023
+AB  - The increasing of health data sources to support clinical practice is opening the path for its secondary use in biomedical research. This changes the research paradigm, from data generation to data management and analysis. Although the potential for secondary use of this data is vast, including the improvement of healthcare systems and the advancement of clinical research, data discovery is challenging. In order to maximize data reusability, the FAIR principles have been developed as a guiding framework for system development. Nevertheless, the discovery and reuse of biomedical data present two main challenges: i) data partners grappling with ethical and social concerns related to data discoverability; ii) clinical researchers struggling to find the best data sources for their research studies. In this paper, we present a platform that provides a set of tools, compliant with the FAIR principles, to help data custodians when sharing data about biomedical databases, while allowing researchers to search for and select databases that meet their specific research needs.
+ER  - 
+
+TY  - CONF
+TI  - A secure architecture for exploring patient-level databases from distributed institutions
+T2  - 2022 IEEE 35th International Symposium on Computer-Based Medical Systems (CBMS)
+SP  - 447
+EP  - 452
+AU  - J. R. Almeida
+AU  - J. P. Barraca
+AU  - J. L. Oliveira
+PY  - 2022
+KW  - Data privacy
+KW  - Limiting
+KW  - Information sharing
+KW  - Distributed databases
+KW  - Medical treatment
+KW  - Computer architecture
+KW  - Robustness
+KW  - Distributed query
+KW  - Patient privacy
+KW  - Data anonymisation
+KW  - OMOP CDM
+KW  - OHDSI
+DO  - 10.1109/CBMS55023.2022.00086
+JO  - 2022 IEEE 35th International Symposium on Computer-Based Medical Systems (CBMS)
+IS  - 
+SN  - 2372-9198
+VO  - 
+VL  - 
+JA  - 2022 IEEE 35th International Symposium on Computer-Based Medical Systems (CBMS)
+Y1  - 21-23 July 2022
+AB  - One of the main goals of clinical studies consists of identifying diseases' causes and improving the efficacy of medical treatments. Sometimes, the reduced number of participants is a limiting factor for these studies, leading researchers to organise multi-centre studies. However, sharing health data raises certain concerns regarding patients' privacy, namely related to the robustness of anonymisation procedures. Although these techniques remove personal identifiers from registries, some studies have shown that anonymisation procedures can sometimes be reverted using specific patients' characteristics. In this paper, we propose a secure architecture to explore distributed databases without compromising the patient's privacy. The proposed architecture is based on interoperable repositories supported by a common data model.
+ER  - 
+
+TY  - CONF
+TI  - Radiology Text Analysis System (RadText): Architecture and Evaluation
+T2  - 2022 IEEE 10th International Conference on Healthcare Informatics (ICHI)
+SP  - 288
+EP  - 296
+AU  - S. Wang
+AU  - M. Lin
+AU  - Y. Ding
+AU  - G. Shih
+AU  - Z. Lu
+AU  - Y. Peng
+PY  - 2022
+KW  - Text analysis
+KW  - Systematics
+KW  - Text recognition
+KW  - Soft sensors
+KW  - Pipelines
+KW  - Radiology
+KW  - Tokenization
+KW  - Natural Language Processing
+KW  - Text Analysis Systems
+KW  - Radiology
+DO  - 10.1109/ICHI54592.2022.00050
+JO  - 2022 IEEE 10th International Conference on Healthcare Informatics (ICHI)
+IS  - 
+SN  - 2575-2634
+VO  - 
+VL  - 
+JA  - 2022 IEEE 10th International Conference on Healthcare Informatics (ICHI)
+Y1  - 11-14 June 2022
+AB  - Analyzing radiology reports is a time-consuming and error-prone task, which raises the need for an efficient automated radiology report analysis system to alleviate the workloads of radiologists and encourage precise diagnosis. In this work, we present RadText, an open-source radiology text analysis system developed by Python. RadText offers an easy-to-use text analysis pipeline, including de-identification, section segmentation, sentence split and word tokenization, named entity recognition, parsing, and negation detection. RadText features a flexible modular design, provides a hybrid text processing schema, and supports raw text processing and local processing, which enables better usability and improved data privacy. Rad-Text adopts BioC as the unified interface, and also standardizes the input / output into a structured representation compatible with Observational Medical Outcomes Partnership (OMOP) Common Data Model (CDM). This allows for a more systematic approach to observational research across multiple, disparate data sources. We evaluated RadText on the MIMIC-CXR dataset, with five new disease labels we annotated for this work. RadText demonstrates highly accurate classification performances, with an average precision of, a recall of 0.94, and an F-1 score of 0.92. We have made our code, documentation, examples, and the test set available at https://github.com/bionlplab/radtext.
+ER  - 
+
+

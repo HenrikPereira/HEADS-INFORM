@@ -1,0 +1,1 @@
+conda create -n ds_inform -c conda-forge -c anaconda -c plotly pandas numpy scikit-learn scipy statsmodels seaborn ucimlrepo duckdb streamlit jupyter
