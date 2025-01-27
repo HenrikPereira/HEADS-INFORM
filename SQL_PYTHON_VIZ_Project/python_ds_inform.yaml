@@ -1,0 +1,26 @@
+name: ds_inform
+channels:
+  - conda-forge
+  - anaconda
+  - bioconda
+  - plotly
+  - defaults
+dependencies:
+  - python
+  - pandas
+  - pyarrow
+  - numpy
+  - scikit-learn
+  - xgboost
+  - scipy
+  - statsmodels
+  - pingouin
+  - plotly
+  - seaborn
+  - ucimlrepo
+  - duckdb
+  - streamlit>=1.40.0
+  - protobuf
+
+# conda env create -f python_ds_inform.yaml
+# conda env update -f python_ds_inform.yaml --prune
